@@ -273,3 +273,9 @@
       url: https://github.com/onukura/gitbucket-drawio-plugin
       icon: fa fa-paint-brush
       distributed: false
+      
+    - name: BPMN plugin
+      description: A plugin for rendering BPMN files.
+      url: https://github.com/ziggystar/bpmn-plugin
+      icon: fa fa-diagram-project
+      distributed: false      
